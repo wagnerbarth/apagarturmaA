@@ -1,5 +1,7 @@
 {
   "name": "crudSqlite-A",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
